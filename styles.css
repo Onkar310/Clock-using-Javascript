@@ -1,0 +1,27 @@
+
+body {
+  text-align: center;
+  color:white;
+  background-image: url("https://i.imgur.com/i6yiy.jpg");
+}
+h1 {
+  font-size: 100px;
+  font-family: "Montserrat", sans-serif;
+  text-shadow: 1px 1px 2px black, 0 0 10px black ;
+}
+
+h2 {
+  font-size: 75px;
+  font-family: "Roboto Mono", monospace;
+  text-shadow: 1px 1px 2px black, 0 0 10px black;
+}
+h3 {
+  font-size: 50px;
+  font-family: "Roboto Mono", monospace;
+  text-shadow: 1px 1px 2px black, 0 0 10px black;
+}
+footer{
+    color:whitesmoke;
+    padding-top: 150px;
+}
+
